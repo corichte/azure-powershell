@@ -18,6 +18,8 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+
+## Version 3.6.0
 * Added support for restoring unmanaged disks vm as managed disks.
 
 ## Version 3.5.0
